@@ -83,3 +83,7 @@ featureGrid:
       ctaLink:
         text: learn more
         url: /docs/
+
+# Image Compare
+imageCompare:
+  enable: false
