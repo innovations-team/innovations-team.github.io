@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = '/isiem/'
 languageCode = 'en-us'
 title = 'iSIEM Documentation'
 
